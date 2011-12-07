@@ -1,0 +1,9 @@
+# Ignore all dotfiles...
+.*
+
+# except for .git files
+!.gitattributes
+!.gitignore
+
+settings.xml
+config/environment.txt
