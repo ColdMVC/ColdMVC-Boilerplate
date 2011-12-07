@@ -1,4 +1,3 @@
-<cfoutput>
 <c:doctype />
 <c:html>
 	<c:head>
@@ -10,4 +9,3 @@
 		<c:render />
 	</c:body>
 </c:html>
-</cfoutput>
