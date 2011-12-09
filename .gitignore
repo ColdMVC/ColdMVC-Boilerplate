@@ -6,4 +6,6 @@
 !.gitignore
 
 settings.xml
-config/environment.txt
+
+# Ignore this file in your app
+# config/environment.txt
